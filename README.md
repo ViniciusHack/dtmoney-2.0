@@ -1,5 +1,5 @@
 <h1 align="center">
-	<a href="#"><img alt="Logo" src="https://user-images.githubusercontent.com/60555584/162859494-22176cc7-c4c8-4fc2-b01b-eee6a5e7b9f4.svg" width="200px" /></a>
+	<a href="#"><img alt="Logo" src="https://raw.githubusercontent.com/ViniciusHack/dtmoney-2.0/da9405f6a1f77f3063f6cb74151b39fdbfdcffbf/src/assets/logo.svg" width="200px" /></a>
 </h1>
 
 <h3 align="center">
